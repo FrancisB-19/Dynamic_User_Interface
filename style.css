@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: medium;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header Style */
+
+#headerContainer > h1{
+    letter-spacing: 0.5px;
+    margin: 5px;
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+
+
+}
+#headerContainer > small{
+    margin: 10px;
+    font-size: medium;
+    padding: 15px;
+
+}
+#headerContainer{
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 7px 4px rgb(122, 122, 122);
+    border-radius: 10px;
+    background-color: rgb(52, 242, 242);
+    text-align: center;
+
+}
+
+#formContainer{
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 7px 4px rgb(122, 122, 122);
+    border-radius: 10px;
+    background-color: aliceblue;
+    text-align: center;
+
+}
